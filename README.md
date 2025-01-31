@@ -15,6 +15,3 @@ CIFAR-10 is a dataset containing **10 classes** of images:
 ✅ **Evaluates Accuracy and Performance on Test Data**  
 ✅ **Displays Predictions with Actual Labels**  
 ✅ **Handles Dynamic Image Count for Testing**  
-
-## ⚙️ Setup
-For the HTML version of the basic image classification notebook, download the raw file and open it directly from your computer.
